@@ -14,8 +14,6 @@ Vehicles move from cell to cell in traveling through the road network using cert
 ## Process-oriented queueing model
 This model is similar to the eventoriented queueing model described above, and should produce identical or nearly identical results, but is implemented using either the activity scanning or process-oriented world view.
 
-## Report
-Specific details could be found in the report.
 
 
 
